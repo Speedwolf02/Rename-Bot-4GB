@@ -13,7 +13,7 @@ LOG_CHANNEL = int(os.environ.get("LOG_CHANNEL", "-1002134913785"))
 DB_URL = os.environ.get("DB_URL", "mongodb+srv://Speedwolf1:speedwolf24689@cluster0.rgfywsf.mongodb.net/")
 DB_NAME = os.environ.get("DB_NAME", "Speedwolf1")
 
-STRING = os.environ.get("STRING", "")
+STRING = os.environ.get("STRING", "1BVtsOMEBuwQxTpJ7mfcNxefDExEycFC-pn-6icy-8-7x4HuegdlasRa2LTiFe7ydD7CCB5G8mlTCK5fQI1UvyfHM2oE7ZOPkRg2R2AD5ilLtOBLOdHWywjLLPD2OgOOKURTLlPKo13ZrQCiJ7TY-TM3y7xl0jreLJLamWV4ihMYbETitX-WBoJJm0a6FYfuFz-FQ-1W-LqaBV9xNAzqoMYYUSYmyqsZjvQFFxM-ZoTKXUDRoU387pMdtShs6RTjQynW60m8DdDAr1YIWLbgzg6Fj5wsg_NjPyVAtThYV15Wz_GcRwyNDDhEDuF8TNUBxK-Y0PH7Wq-4fRjZ6gf_u2O3eMofJ1j8=")
 BOT_PIC = os.environ.get("BOT_PIC", "https://telegra.ph/file/60cc8a0f42af417fbefdb.jpg")
 
 
